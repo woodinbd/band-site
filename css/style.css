@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+}
+
+.banner h1 {
+    text-align: center;
+}
+
+.banner h1 {
+    position: relative;
+    margin-top: 20px;
+}
